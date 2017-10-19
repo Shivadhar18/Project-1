@@ -1,0 +1,25 @@
+body {
+    background-image: url('/img/NJIT_Eberhardt_Hall.jpg');
+}
+
+.form-input {
+    max-width: 500px;
+    margin: 100px auto;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px;
+    border-style: solid;
+    border-color: gray;
+}
+
+
+.table-wrapper {
+    padding: 15px;
+    margin: 0 auto;
+}
+
+thead {
+    font-weight: 800;
+    background-color: dodgerblue;
+    color: white;
+}
